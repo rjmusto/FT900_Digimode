@@ -5,9 +5,10 @@ Includes Schematic diagramm PDF file, Gerber files for pcb manufacture and two S
 
 Photos also shown of the USB Audio Interface used.
 And the USB Isolator used for the CAT Connection.
-*** Note that I have removed the DC-DC supply module (small black block woth 4 pins) from this USB Isolator as I find they are very noisy.
-The secondary side can be powered from the micro USB connector, supplied from the Rig side of things.
-***
+
+<b>PLease Note;
+I have removed the DC-DC supply module (small black block woth 4 pins) from this USB Isolator as I find they are very noisy.
+The secondary side can be powered from the micro USB connector, supplied from the Rig side of things.</b>
 
 Note also that, dispite what's shown on the data sheet, the dual channel audio isolating transfortmer seems to use just one core internally.
 This obvioulsy means that a signal applied to one winding will appear on all 3 others, which at first sight would seem to be a problem.
